@@ -15,5 +15,5 @@ let eric =  !bald && !glasses && hat;
 
 
 if (sam) {
-    di
+    div
 }
