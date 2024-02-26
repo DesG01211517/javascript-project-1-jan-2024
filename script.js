@@ -14,3 +14,6 @@ let mike = !bald && !glasses && !hat;
 let eric =  !bald && !glasses && hat;
 
 
+if (sam) {
+    di
+}
