@@ -15,5 +15,17 @@ let eric =  !bald && !glasses && hat;
 
 
 if (sam) {
-    div
+    divAtextContent = `It's Me Sam!`;
+    samImg.src = `sam.jpg`;
+    divB.style.backgroundColor = `green`
+}
+else if (mike) {
+    divBtextContent = `It's Me Mike!`;
+    mikeImg.src = `mike.jpg`;
+    divB.style.backgroundColor = `green`
+}
+else if (eric) {
+    divCtextContent = `It's Me Mike!`;
+    mikeImg.src = `mike.jpg`;
+    divC.style.backgroundColor = `green`
 }
