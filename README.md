@@ -24,7 +24,7 @@ You check the checkmarks for the facial features of a person, and the program gu
 
 ## Contact
 
-Author:
+Author: Desmon Garrison email: desmongarrison2@gmail.com
 
 ## Acknowledgements
 
